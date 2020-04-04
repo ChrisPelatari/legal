@@ -1,4 +1,4 @@
-[support]: 'mailto:support@bluefenix.net?subject=Privacy Policy Question'
+[support]: mailto:support@bluefenix.net
 
 # Blue Fenix privacy policy
 
