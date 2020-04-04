@@ -2,6 +2,5 @@
 
 The rough print and the fine print.
 
-* [Terms of Service](terms.md)
 * [Privacy policy](privacy/privacy-policy.md)
 * [Until the End of the Internet](until-the-end-of-the-internet.md)
