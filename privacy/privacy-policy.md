@@ -21,6 +21,6 @@ This Site is operated in the United States. If you are located in the European U
 
 ## Changes & questions
 
-Blue Fenix Productions may update this policy once in a blue moon — we’ll notify you about significant changes by emailing you or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting [our support team][support].
+Blue Fenix Productions may update this policy once in a while — we’ll notify you about significant changes by emailing you or by placing a prominent notice on our site. You can access, change or delete your personal information at any time by contacting [our support team][support].
 
-Questions about this privacy policy? Please [get in touch][support] and we’ll be happy to answer them!
+Questions about this privacy policy? Please [contact us][support] and we’ll be happy to answer them!
