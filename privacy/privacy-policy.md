@@ -12,7 +12,7 @@ Blue Fenix Productions won’t hand your data over to law enforcement unless a c
 
 ## Security & Encryption
 
-All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. Data isn’t encrypted while it's live in our database (since it needs to be ready to send to you when you need it).
+All data is encrypted via [SSL/TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) when transmitted from our servers to your browser. The database backups are also encrypted. 
 
 ## Location of Site and Data
 
